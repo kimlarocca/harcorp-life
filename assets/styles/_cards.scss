@@ -1,0 +1,31 @@
+.p-card {
+    background-color: var(--light-gray);
+    padding: 25px 25px;
+    border-radius: 8px;
+    box-shadow: none;
+    color: var(--black);
+    height: auto;
+}
+
+.p-card .p-card-title {
+    margin-bottom: 0;
+    line-height: var(--line-height-8);
+    font-size: var(--font-size-8);
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    color: var(--black);
+    @media all and (min-width: $medium) {
+        @include typeface(primary, 9);
+        font-weight: 300;
+        letter-spacing: 0.5px;
+    }
+}
+
+.p-card .p-card-body,
+.p-card .p-card-content {
+    padding-bottom: 0;
+}
+
+.p-card .p-card-content p {
+    font-size: 1rem;
+}
