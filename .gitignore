@@ -70,5 +70,3 @@ sw.*
 
 # Vim swap files
 *.swp
-
-.output/*
