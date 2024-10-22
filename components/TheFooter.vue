@@ -8,8 +8,8 @@
       <p>Tele: <a href="tel:202-422-2453" class="mr-4">202-422-2453 </a></p>
       <p>
         Email:
-        <a href="mailto:info@harcorp.org" target="_blank" class="mr-4">
-          info@harcorp.org
+        <a href="mailto:info@harcorplife.com" target="_blank" class="mr-4">
+          info@harcorplife.com
         </a>
       </p>
       <p>Address: 80 M ST SE Washington, DC 20003</p>
@@ -23,5 +23,5 @@
 </template>
 
 <script setup>
-const year = new Date().getFullYear();
+const year = new Date().getFullYear()
 </script>

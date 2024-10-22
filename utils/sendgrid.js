@@ -2,7 +2,7 @@ export async function sendContactForm( userName, userMessage, userEmail, userPho
     let msg = {
         personalizations: [ {
             to: [ {
-                email: 'info@harcorp.org',
+                email: 'info@harcorplife.com',
                 name: 'HarcorpLife.com',
             }, ],
         }, ],

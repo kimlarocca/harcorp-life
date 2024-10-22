@@ -55,7 +55,7 @@
             <li>Personal umbrella insurance</li>
           </ul>
           <p>
-            <a href="mailto:info@harcorp.org">
+            <a href="mailto:info@harcorplife.com">
               Contact us to learn more
               <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
             </a>
@@ -75,7 +75,7 @@
             Hiscox &bull; Kaiser&nbsp;Permanente &bull; Carefirst
           </p>
           <p>
-            <a href="mailto:info@harcorp.org">
+            <a href="mailto:info@harcorplife.com">
               Contact us to learn more
               <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
             </a>
@@ -153,22 +153,22 @@ $large: 992px;
 $xlarge: 1200px;
 
 .home .hero {
-  background: var(--black) url("/images/hero.jpg") center right -200px no-repeat;
+  background: var(--black) url('/images/hero.jpg') center right -200px no-repeat;
   text-align: left;
   overflow: hidden;
   position: relative;
 
   @media all and (max-width: $xlarge) {
-    background: var(--black) url("/images/hero.jpg") center right -400px no-repeat;
+    background: var(--black) url('/images/hero.jpg') center right -400px no-repeat;
   }
 
   @media all and (max-width: $medium) {
-    background: var(--black) url("/images/hero-medium.jpg") center right
+    background: var(--black) url('/images/hero-medium.jpg') center right
       no-repeat;
   }
 
   @media all and (max-width: $small) {
-    background: var(--black) url("/images/hero-medium.jpg") center right -170px no-repeat;
+    background: var(--black) url('/images/hero-medium.jpg') center right -170px no-repeat;
   }
 
   .container {
@@ -234,12 +234,12 @@ $xlarge: 1200px;
 }
 
 .box1 {
-  background: url("/images/box1.png") center center no-repeat;
+  background: url('/images/box1.png') center center no-repeat;
   background-size: cover;
 }
 
 .box2 {
-  background: url("/images/box2.png") center center no-repeat;
+  background: url('/images/box2.png') center center no-repeat;
   background-size: cover;
 }
 
