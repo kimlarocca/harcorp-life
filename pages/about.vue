@@ -130,19 +130,13 @@ const logos = [
   '/images/logos/cna.gif',
   '/images/logos/corebridge.png',
   '/images/logos/hiscox-agent.png',
-  '/images/logos/hiscox.png',
   '/images/logos/iml.webp',
   '/images/logos/kp.png',
   '/images/logos/mutual-of-omaha.png',
   '/images/logos/nationwide.png',
-  '/images/logos/neptune.svg',
   '/images/logos/next.svg',
-  '/images/logos/optavise.svg',
-  '/images/logos/pathpoint.png',
-  '/images/logos/the-connector.png',
   '/images/logos/three.svg',
-  '/images/logos/uhc.png',
-  '/images/logos/wn.png'
+  '/images/logos/uhc.png'
 ]
 </script>
 

@@ -22,7 +22,7 @@
         </div>
         <div class="col-12 lg:col-7 p-4 lg:p-8">
           <h3 class="mb-4">Our life and health insurance products include:</h3>
-          <ul class="mb-6">
+          <ul class="mb-4">
             <li>Final Expense Insurance</li>
             <li>Fixed Annuities</li>
             <li>Individual & Family Health Insurance</li>
@@ -32,6 +32,13 @@
             <li>Individual Long-Term Care (LTC) Insurance</li>
             <li>Mortgage Protection Insurance</li>
           </ul>
+          <a
+            href="https://my.agentero.com/leads/forms/831fc2e1-b335-40b1-8946-da761ff04ea5"
+            target="_blank"
+            class="p-button mb-6"
+          >
+            Request A Quote Now!
+          </a>
         </div>
       </div>
     </section>
