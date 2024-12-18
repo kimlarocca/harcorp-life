@@ -129,7 +129,7 @@ const logos = [
   '/images/logos/carefirst.svg',
   '/images/logos/cna.gif',
   '/images/logos/corebridge.png',
-  '/images/logos/hiscox-agent.png',
+  '/images/logos/hiscox.png',
   '/images/logos/iml.webp',
   '/images/logos/kp.png',
   '/images/logos/mutual-of-omaha.png',
