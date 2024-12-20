@@ -37,7 +37,7 @@
             target="_blank"
             class="p-button mb-6"
           >
-            Request A Quote Now!
+            Request More Information
           </a>
           <h3 class="mb-4">Products we offer:</h3>
           <ul class="mb-4">

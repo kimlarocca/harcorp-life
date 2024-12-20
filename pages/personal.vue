@@ -20,7 +20,7 @@
             src="/images/health-insurance.jpg"
           />
         </div>
-        <div class="col-12 lg:col-7 p-4 lg:p-8">
+        <div class="col-12 lg:col-7 p-4 lg:px-8">
           <h3 class="mb-4">Our life and health insurance products include:</h3>
           <ul class="mb-4">
             <li>Final Expense Insurance</li>
@@ -37,7 +37,7 @@
             target="_blank"
             class="p-button mb-6"
           >
-            Request A Quote Now!
+            Request More Information
           </a>
         </div>
       </div>

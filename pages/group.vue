@@ -20,7 +20,14 @@
             src="/images/covered-equipment.jpg"
           />
         </div>
-        <div class="col-12 lg:col-7 p-4 lg:p-8">
+        <div class="col-12 lg:col-7 p-4 lg:px-8">
+          <p class="mb-4">
+            Health Insurance removes the barriers to care when someone gets sick
+            or injured. Health insurance provides financial protection against
+            significant and unexpected health care costs. Overall, comprehensive
+            health insurance provides peace of mind to individuals and families
+            that they can get the medical help they need when they are sick.
+          </p>
           <h3 class="mb-4">Insurance and group benefits for employers:</h3>
           <p>
             Harcorp Life offers a complete line of insurance and group benefits

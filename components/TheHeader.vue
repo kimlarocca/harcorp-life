@@ -13,45 +13,45 @@
 </template>
 
 <script setup>
-const router = useRouter();
-const items = ref( [
-  {
-    label: 'Commercial',
-    command: () => {
-      router.push( '/commercial' );
-    }
-  },
+const router = useRouter()
+const items = ref([
   {
     label: 'Personal',
     command: () => {
-      router.push( '/personal' );
+      router.push('/personal')
     }
   },
   {
-    label: 'Group Benefits',
+    label: 'Commercial',
     command: () => {
-      router.push( '/group' );
+      router.push('/commercial')
+    }
+  },
+  {
+    label: 'Employee Benefits',
+    command: () => {
+      router.push('/group')
     }
   },
   {
     label: 'Financial Education',
     command: () => {
-      router.push( '/education' );
+      router.push('/education')
     }
   },
   {
     label: 'About Us',
     command: () => {
-      router.push( '/about' );
+      router.push('/about')
     }
   },
   {
     label: 'Contact Us',
     command: () => {
-      router.push( '/contact' );
+      router.push('/contact')
     }
-  },
-] );
+  }
+])
 </script>
 
 <style lang="scss">
