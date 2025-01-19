@@ -100,7 +100,7 @@
         </Card>
       </div>
     </section>
-    <section class="container">
+    <section class="container mb-7">
       <h3 class="mb-5">Carriers</h3>
       <div class="grid">
         <div class="col col-6 lg:col-4 mb-4" v-for="logo in logos" :key="logo">
@@ -115,6 +115,73 @@
           </div>
         </div>
       </div>
+    </section>
+    <section class="container mb-7">
+      <div class="grid">
+        <Card class="col-12 lg:col mb-4">
+          <template #title>Careers</template>
+          <template #content>
+            <p>
+              If you are a licensed insurance agent in Maryland or Washington,
+              DC, and are ready to take the next step in your career with a
+              forward-thinking and supportive agency, we want to hear from you!
+            </p>
+          </template>
+          <template #footer>
+            <nuxt-link to="/careers">
+              <Button icon="pi pi-angle-double-right" label="Learn More" />
+            </nuxt-link>
+          </template>
+        </Card>
+      </div>
+    </section>
+    <section class="container">
+      <h3 class="mb-4">Please fill out the following form to contact us:</h3>
+      <form v-if="!formSent" @submit="postContactForm()">
+        <div class="mb-4">
+          <label for="userName">Full Name</label>
+          <input
+            v-model="userName"
+            type="text"
+            id="userName"
+            name="userName"
+            required
+          />
+        </div>
+        <div class="mb-4">
+          <label for="userEmail">Email</label>
+          <input
+            v-model="userEmail"
+            type="email"
+            id="userEmail"
+            name="userEmail"
+            required
+          />
+        </div>
+        <div class="mb-4">
+          <label for="userEmail">Phone (optional)</label>
+          <input
+            v-model="userPhone"
+            type="text"
+            id="userPhone"
+            name="userPhone"
+          />
+        </div>
+        <div class="mb-4">
+          <label for="userMessage">Message</label>
+          <textarea
+            v-model="userMessage"
+            id="userMessage"
+            name="userMessage"
+            required
+          ></textarea>
+        </div>
+        <Button type="submit">Submit</Button>
+      </form>
+      <p v-else>
+        Thank you for contacting us! We will get back to you as soon as
+        possible.
+      </p>
     </section>
   </div>
 </template>

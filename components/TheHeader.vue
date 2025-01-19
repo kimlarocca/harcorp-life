@@ -16,21 +16,9 @@
 const router = useRouter()
 const items = ref([
   {
-    label: 'Personal',
+    label: 'Home',
     command: () => {
-      router.push('/personal')
-    }
-  },
-  {
-    label: 'Commercial',
-    command: () => {
-      router.push('/commercial')
-    }
-  },
-  {
-    label: 'Employee Benefits',
-    command: () => {
-      router.push('/group')
+      router.push('/')
     }
   },
   {
@@ -43,12 +31,6 @@ const items = ref([
     label: 'About Us',
     command: () => {
       router.push('/about')
-    }
-  },
-  {
-    label: 'Contact Us',
-    command: () => {
-      router.push('/contact')
     }
   }
 ])

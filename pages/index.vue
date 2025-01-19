@@ -29,119 +29,50 @@
         <div class="col-12 lg:col box1 p-5 mb-4">
           <h2 class="mb-4">Our Mission</h2>
           <p class="mb-4">
-            Harcorp Life specializes in the implementation of benefit
-            enrollments with small or large organizations. Our mission is to
-            educate and inform eligible employees of the health options
-            available to them. We accomplish this by meeting in person or
-            virtually with employees to discuss how their plan selection would
-            work.
+            Our mission is to educate, inform, produce, and recruit. To meet
+            this objective we meet with individuals, families, and communities
+            to educate them about the market, and inform you about what is
+            available.
           </p>
         </div>
       </div>
     </section>
-    <section class="mb-6">
-      <div class="grid">
-        <div class="col-12 lg:col mb-4">
-          <img
-            alt="person holding paper cutouts of an umbrella over a family"
-            src="/images/umbrella-insurance.jpg"
-          />
-        </div>
-        <div class="col-12 lg:col-7 p-4 lg:p-8 mb-4">
-          <h3 class="mb-4">Core Competencies</h3>
-          <ul class="mb-4">
-            <li>Life and health insurance</li>
-            <li>Business liability insurance</li>
-            <li>Personal umbrella insurance</li>
-          </ul>
-          <p>
-            <a href="mailto:info@harcorplife.com">
-              Contact us to learn more
-              <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
-            </a>
-          </p>
-        </div>
-      </div>
-    </section>
-    <section class="mb-6">
-      <div class="grid">
-        <div
-          class="col-12 lg:col-7 flex-order-1 lg:flex-order-0 p-4 lg:p-8 lg:p-8 mb-4"
-        >
-          <h3 class="mb-4">Our Partners</h3>
-          <p class="mb-4">
-            Corebridge &bull; Mutual&nbsp;of&nbsp;Omaha &bull; Nationwide &bull;
-            BiBerk &bull; Aetna &bull; CNA &bull; United&nbsp;Healthcare &bull;
-            Hiscox &bull; Kaiser&nbsp;Permanente &bull; Carefirst
-          </p>
-          <p>
-            <a href="mailto:info@harcorplife.com">
-              Contact us to learn more
-              <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
-            </a>
-          </p>
-        </div>
-        <div class="col-12 lg:col flex-order-0 lg:flex-order-1 mb-4">
-          <img
-            alt="scrabble letters spelling out health insurance"
-            src="/images/health-insurance.jpg"
-          />
-        </div>
-      </div>
-    </section>
-    <section class="dark lg:text-center p-6 mb-7">
-      <h2 class="white mb-4">About Us</h2>
-      <p class="white lg:w-9 m-auto mb-4">
-        Harcorp Life LLC (dba HC Life) is a dynamic and rapidly growing
-        insurance consulting and management agency dedicated to helping
-        individuals, professionals, homeowners, and businesses navigate the
-        insurance marketplace. With a focus on value-driven insurance plans and
-        exceptional customer service, we partner with top carriers to deliver
-        tailored solutions to our clients. We are currently seeking motivated
-        and licensed Independent Insurance Agents to join our team in Maryland
-        and Washington, DC.
-      </p>
-    </section>
-    <section class="container">
-      <div class="grid">
-        <Card class="col-12 lg:col mb-4">
-          <template #title>NAICS Codes</template>
-          <template #content>
-            <li><strong>524210</strong> (Insurance Agencies and Brokerages)</li>
-            <li><strong>561110</strong> (Office Administrative Services)</li>
-            <li>
-              <strong>811210</strong> (Electronic and Precision Equipment Repair
-              and Maintenance)
-            </li>
-          </template>
-        </Card>
-        <div class="col-fixed" style="width: 32px"></div>
-        <Card class="col-12 lg:col mb-4">
-          <template #title>Company Data</template>
-          <template #content>
-            <li>Cage: 9J8D2</li>
-            <li>UEI: L1W7HCC4KV54</li>
-            <li>CMS Certified</li>
-            <li>SHOP Certified</li>
-          </template>
-        </Card>
-        <div class="col-fixed" style="width: 32px"></div>
-        <Card class="col-12 lg:col mb-4">
-          <template #title>Careers</template>
-          <template #content>
-            <p>
-              If you are a licensed insurance agent in Maryland or Washington,
-              DC, and are ready to take the next step in your career with a
-              forward-thinking and supportive agency, we want to hear from you!
-            </p>
-          </template>
-          <template #footer>
-            <nuxt-link to="/careers">
-              <Button icon="pi pi-angle-double-right" label="Learn More" />
-            </nuxt-link>
-          </template>
-        </Card>
-      </div>
+    <section class="container mb-7 text-center">
+      <a
+        href="https://my.agentero.com/leads/forms/831fc2e1-b335-40b1-8946-da761ff04ea5"
+        target="_blank"
+        class="mx-2"
+      >
+        <Button icon="pi pi-angle-double-right" label="Home" />
+      </a>
+      <a
+        href="https://my.agentero.com/leads/forms/831fc2e1-b335-40b1-8946-da761ff04ea5"
+        target="_blank"
+        class="mx-2"
+      >
+        <Button icon="pi pi-angle-double-right" label="Auto" />
+      </a>
+      <a
+        href="https://my.agentero.com/leads/forms/831fc2e1-b335-40b1-8946-da761ff04ea5"
+        target="_blank"
+        class="mx-2"
+      >
+        <Button icon="pi pi-angle-double-right" label="Commercial" />
+      </a>
+      <a
+        href="https://my.agentero.com/leads/forms/831fc2e1-b335-40b1-8946-da761ff04ea5"
+        target="_blank"
+        class="mx-2"
+      >
+        <Button icon="pi pi-angle-double-right" label="Personal" />
+      </a>
+      <a
+        href="https://app.boldpenguin.com/start/hclife"
+        target="_blank"
+        class="mx-2"
+      >
+        <Button icon="pi pi-angle-double-right" label="Health" />
+      </a>
     </section>
   </div>
 </template>

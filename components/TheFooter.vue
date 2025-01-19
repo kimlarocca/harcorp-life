@@ -5,7 +5,7 @@
       <img src="/images/logo.png" class="logo" alt="harcorp logo" />
     </nuxt-link>
     <div class="lg:flex justify-content-center mt-4 mb-3">
-      <p>Tele: <a href="tel:202-422-2453" class="mr-4">202-422-2453 </a></p>
+      <p>Tele: <a href="tel:202-422-2453" class="mr-4">202-422-2453</a></p>
       <p>
         Email:
         <a href="mailto:info@harcorplife.com" target="_blank" class="mr-4">
