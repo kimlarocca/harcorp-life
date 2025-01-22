@@ -16,13 +16,11 @@
       <div class="grid">
         <div class="col-12 lg:col box1 p-5 mb-4">
           <h2 class="mb-4">Our Mission</h2>
-          <p class="mb-4">
-            Harcorp Life specializes in the implementation of benefit
-            enrollments with small or large organizations. Our mission is to
-            educate and inform eligible employees of the health options
-            available to them. We accomplish this by meeting in person or
-            virtually with employees to discuss how their plan selection would
-            work.
+          <p>
+            Our mission is to educate, inform, produce, and recruit. To meet
+            this objective we meet with individuals, families, and communities
+            to educate them about the market, and inform you about what is
+            available.
           </p>
         </div>
       </div>
@@ -47,7 +45,7 @@
           <h3 class="mb-3">Areas Of Coverage</h3>
           <p class="mb-4">
             DC - District of Columbia &bull; MD - Maryland &bull; NJ - New
-            Jersey &bull; PA - Pennsylvania
+            Jersey &bull; PA - Pennsylvania &bull; VA - Virginia
           </p>
         </div>
       </div>
@@ -215,6 +213,6 @@ const logos = [
   max-height: 60px;
   display: flex;
   align-items: center;
-  justify-content: start;
+  justify-content: flex-start;
 }
 </style>

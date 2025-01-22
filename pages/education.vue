@@ -48,13 +48,6 @@
             your account with the company that will provide you with the
             coverage and benefits you want.
           </p>
-          <a
-            href="https://app.boldpenguin.com/start/hclife"
-            target="_blank"
-            class="p-button mb-6"
-          >
-            Request More Information
-          </a>
         </div>
       </div>
     </section>
@@ -102,13 +95,6 @@
             physicians are required to purchase malpractice insurance as a
             condition of practicing in certain states.
           </p>
-          <a
-            href="https://app.boldpenguin.com/start/hclife"
-            target="_blank"
-            class="p-button mb-6"
-          >
-            Request More Information
-          </a>
         </div>
         <div class="col-12 lg:col mb-4">
           <img
@@ -159,13 +145,6 @@
             <li>Group Vision Insurance</li>
             <li>Health Savings Accounts (HSA)</li>
           </ul>
-          <a
-            href="https://app.boldpenguin.com/start/hclife"
-            target="_blank"
-            class="p-button mb-6"
-          >
-            Request More Information
-          </a>
         </div>
       </div>
     </section>
