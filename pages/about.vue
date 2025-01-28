@@ -35,12 +35,8 @@
         </div>
         <div class="col-12 lg:col-7 p-4 lg:px-8 lg:py-6">
           <h3 class="mb-4">Our Offering</h3>
-          <p class="mb-4">
-            We are looking to work with major medical carriers to help with the
-            education of their health plans to individuals and employees. This
-            service is provided through health fairs, webinars and ongoing
-            orientations for employees that focuses on health education,
-            financial wellness, and wellness.
+          <p class="mb-6">
+            Home, Auto, Personal, Commercial, Health and Pet Insurance
           </p>
           <h3 class="mb-3">Areas Of Coverage</h3>
           <p class="mb-4">
