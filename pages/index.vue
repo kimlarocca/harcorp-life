@@ -29,10 +29,10 @@
         <div class="col-12 lg:col box1 p-5 mb-4">
           <h2 class="mb-4">Our Mission</h2>
           <p class="mb-4">
-            Our mission is to educate, inform, produce, and recruit. To meet
-            this objective we meet with individuals, families, and communities
-            to educate them about the market, and inform you about what is
-            available.
+            Our mission is to educate, inform, produce, and recruit by engaging
+            with individuals, families, and communities. We strive to provide
+            market insights, share valuable opportunities, and empower informed
+            decision-making through education and outreach.
           </p>
         </div>
       </div>

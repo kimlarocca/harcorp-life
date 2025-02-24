@@ -23,388 +23,125 @@
         <div class="col-12 lg:col-7 p-4 lg:p-7">
           <h3 class="mb-3">About Us</h3>
           <p class="mb-4">
-            Harcorp Life LLC (dba HC Life) is a dynamic and rapidly growing
-            insurance consulting and management agency dedicated to helping
-            individuals, professionals, homeowners, and businesses navigate the
-            insurance marketplace. With a focus on value-driven insurance plans
-            and exceptional customer service, we partner with top carriers to
-            deliver tailored solutions to our clients. We are currently seeking
-            motivated and licensed Independent Insurance Agents to join our team
-            in Maryland and Washington, DC.
+            Founded in 2022, Harcorp Life LLC is a dynamic insurance marketing
+            and distribution company specializing in insurance products and
+            financial planning services. We are committed to providing tailored
+            solutions that help individuals, businesses, and families secure
+            their financial future with confidence.
           </p>
-          <h3 class="mb-5">Job Opportunities</h3>
-          <p><a href="#dc">District of Columbia</a></p>
-          <p><a href="#md">Maryland</a></p>
-          <p><a href="#nj">New Jersey</a></p>
-          <p><a href="#pa">Pennsylvania</a></p>
         </div>
       </div>
     </section>
-    <section class="container pt-8" id="dc">
-      <h2 class="mb-3">
-        Independent Insurance Agent (Licensed and non-licensed candidates
-        wanted, Remote option) - District of Columbia
-      </h2>
-      <h3 class="mb-3">Position Overview</h3>
+    <section class="container pt-8">
+      <h2 class="mb-3">Full Job Description</h2>
+      <h4 class="mb-3">Our Mission</h4>
       <p class="mb-4">
-        As an Independent Insurance Agent with Harcorp Life LLC, you will have
-        the opportunity to represent a wide range of insurance products,
-        including life, health, business liability, and personal umbrella
-        insurance. You will work with clients to assess their needs and provide
-        comprehensive insurance solutions that protect their assets and mitigate
-        risks. This role is perfect for self-driven individuals looking to
-        expand their careers in the insurance industry with the support of a
-        growing agency.
+        At Harcorp Life LLC, we are committed to serving our communities and
+        building lasting legacies for families. We empower individuals to create
+        financial security for themselves and their clients through a proven
+        system that helps them build successful insurance businesses.
       </p>
-      <h3>Responsibilities</h3>
-      <ul class="mb-4">
-        <li>
-          Develop and maintain a portfolio of clients by identifying and
-          prospecting potential leads.
-        </li>
-        <li>
-          Assess clients' insurance needs and provide tailored solutions,
-          including life and health insurance.
-        </li>
-        <li>
-          Educate clients on available insurance options and assist them in
-          making informed decisions.
-        </li>
-        <li>
-          Conduct policy reviews and assist clients with policy changes,
-          renewals, and claims processing.
-        </li>
-        <li>
-          Build and maintain strong relationships with clients, ensuring
-          exceptional service and retention.
-        </li>
-        <li>
-          Stay updated on industry trends, products, and regulations to provide
-          the best possible advice to clients.
-        </li>
-        <li>
-          Participate in health fairs, webinars, and orientations to educate
-          potential clients on available insurance plans.
-        </li>
-      </ul>
-      <h3>Qualifications</h3>
-      <ul class="mb-4">
-        <li>Active insurance license in Washington, DC is not required.</li>
-        <li>
-          Proven experience in insurance sales, consulting, or a related field
-          is preferred.
-        </li>
-        <li>Excellent communication, negotiation, and interpersonal skills.</li>
-        <li>Self-motivated, goal-oriented, and able to work independently.</li>
-        <li>Ability to build and maintain strong client relationships.</li>
-        <li>
-          Experience with benefit enrollments and employee education is a plus.
-        </li>
-      </ul>
-      <h3>What We Offer</h3>
-      <ul class="mb-4">
-        <li>
-          Competitive commission structure with uncapped earning potential.
-        </li>
-        <li>
-          Access to a broad range of insurance products from top carriers.
-        </li>
-        <li>Comprehensive training and ongoing support to help you succeed.</li>
-        <li>
-          Flexible working hours and the ability to work remotely or in-person.
-        </li>
-        <li>
-          Opportunities for growth and advancement within a growing agency.
-        </li>
-      </ul>
-      <h3 class="mb-3">How to Apply</h3>
+      <h4 class="mb-3">
+        Looking to start your own business, build passive income, and create
+        financial freedom?
+      </h4>
       <p class="mb-4">
-        If you are a licensed insurance agent in Maryland or Washington, DC, and
-        are ready to take the next step in your career with a forward-thinking
-        and supportive agency, we want to hear from you! Please send your resume
-        and a brief cover letter to
-        <a href="mailto:info@harcorplife.com">info@harcorplife.com</a> with the
-        subject line “Independent Insurance Agent Application.” Join Harcorp
-        Life LLC and make a difference by helping clients protect what matters
-        most!
+        Our Insurance Broker Program offers a pathway to success, providing you
+        with the tools, training, and mentorship needed to thrive in the
+        insurance industry.
       </p>
-      <a href="mailto:info@harcorplife.com" class="plain">
-        <Button icon="pi pi-angle-double-right" label="Apply Now" />
-      </a>
-    </section>
-    <section class="container pt-8" id="md">
-      <h2 class="mb-3">
-        Independent Insurance Agent (Licensed and non-licensed candidates
-        wanted, Remote option) - Maryland
-      </h2>
-      <h3 class="mb-3">Position Overview</h3>
       <p class="mb-4">
-        As an Independent Insurance Agent with Harcorp Life LLC, you will have
-        the opportunity to represent a wide range of insurance products,
-        including life, health, business liability, and personal umbrella
-        insurance. You will work with clients to assess their needs and provide
-        comprehensive insurance solutions that protect their assets and mitigate
-        risks. This role is perfect for self-driven individuals looking to
-        expand their careers in the insurance industry with the support of a
-        growing agency.
+        For a small investment of just $199, you can embark on a life-changing
+        journey that has helped countless new agents build six-figure incomes in
+        just 18 months!
       </p>
-      <h3>Responsibilities</h3>
-      <ul class="mb-4">
-        <li>
-          Develop and maintain a portfolio of clients by identifying and
-          prospecting potential leads.
-        </li>
-        <li>
-          Assess clients' insurance needs and provide tailored solutions,
-          including life and health insurance.
-        </li>
-        <li>
-          Educate clients on available insurance options and assist them in
-          making informed decisions.
-        </li>
-        <li>
-          Conduct policy reviews and assist clients with policy changes,
-          renewals, and claims processing.
-        </li>
-        <li>
-          Build and maintain strong relationships with clients, ensuring
-          exceptional service and retention.
-        </li>
-        <li>
-          Stay updated on industry trends, products, and regulations to provide
-          the best possible advice to clients.
-        </li>
-        <li>
-          Participate in health fairs, webinars, and orientations to educate
-          potential clients on available insurance plans.
-        </li>
-      </ul>
-      <h3>Qualifications</h3>
-      <ul class="mb-4">
-        <li>Active insurance license in Washington, DC is not required.</li>
-        <li>
-          Proven experience in insurance sales, consulting, or a related field
-          is preferred.
-        </li>
-        <li>Excellent communication, negotiation, and interpersonal skills.</li>
-        <li>Self-motivated, goal-oriented, and able to work independently.</li>
-        <li>Ability to build and maintain strong client relationships.</li>
-        <li>
-          Experience with benefit enrollments and employee education is a plus.
-        </li>
-      </ul>
-      <h3>What We Offer</h3>
-      <ul class="mb-4">
-        <li>
-          Competitive commission structure with uncapped earning potential.
-        </li>
-        <li>
-          Access to a broad range of insurance products from top carriers.
-        </li>
-        <li>Comprehensive training and ongoing support to help you succeed.</li>
-        <li>
-          Flexible working hours and the ability to work remotely or in-person.
-        </li>
-        <li>
-          Opportunities for growth and advancement within a growing agency.
-        </li>
-      </ul>
-      <h3 class="mb-3">How to Apply</h3>
-      <p class="mb-4">
-        If you are a licensed insurance agent in Maryland or Washington, DC, and
-        are ready to take the next step in your career with a forward-thinking
-        and supportive agency, we want to hear from you! Please send your resume
-        and a brief cover letter to
-        <a href="mailto:info@harcorplife.com">info@harcorplife.com</a> with the
-        subject line “Independent Insurance Agent Application.” Join Harcorp
-        Life LLC and make a difference by helping clients protect what matters
-        most!
-      </p>
-      <a href="mailto:info@harcorplife.com" class="plain">
-        <Button icon="pi pi-angle-double-right" label="Apply Now" />
-      </a>
-    </section>
-    <section class="container pt-8" id="nj">
-      <h2 class="mb-3">
-        Independent Insurance Agent (Licensed and non-licensed candidates
-        wanted, Remote option) - New Jersey
-      </h2>
-      <h3 class="mb-3">Position Overview</h3>
-      <p class="mb-4">
-        As an Independent Insurance Agent with Harcorp Life LLC, you will have
-        the opportunity to represent a wide range of insurance products,
-        including life, health, business liability, and personal umbrella
-        insurance. You will work with clients to assess their needs and provide
-        comprehensive insurance solutions that protect their assets and mitigate
-        risks. This role is perfect for self-driven individuals looking to
-        expand their careers in the insurance industry with the support of a
-        growing agency.
-      </p>
-      <h3>Responsibilities</h3>
-      <ul class="mb-4">
-        <li>
-          Develop and maintain a portfolio of clients by identifying and
-          prospecting potential leads.
-        </li>
-        <li>
-          Assess clients' insurance needs and provide tailored solutions,
-          including life and health insurance.
-        </li>
-        <li>
-          Educate clients on available insurance options and assist them in
-          making informed decisions.
-        </li>
-        <li>
-          Conduct policy reviews and assist clients with policy changes,
-          renewals, and claims processing.
-        </li>
-        <li>
-          Build and maintain strong relationships with clients, ensuring
-          exceptional service and retention.
-        </li>
-        <li>
-          Stay updated on industry trends, products, and regulations to provide
-          the best possible advice to clients.
-        </li>
-        <li>
-          Participate in health fairs, webinars, and orientations to educate
-          potential clients on available insurance plans.
-        </li>
-      </ul>
-      <h3>Qualifications</h3>
-      <ul class="mb-4">
-        <li>Active insurance license in Washington, DC is not required.</li>
-        <li>
-          Proven experience in insurance sales, consulting, or a related field
-          is preferred.
-        </li>
-        <li>Excellent communication, negotiation, and interpersonal skills.</li>
-        <li>Self-motivated, goal-oriented, and able to work independently.</li>
-        <li>Ability to build and maintain strong client relationships.</li>
-        <li>
-          Experience with benefit enrollments and employee education is a plus.
-        </li>
-      </ul>
-      <h3>What We Offer</h3>
-      <ul class="mb-4">
-        <li>
-          Competitive commission structure with uncapped earning potential.
-        </li>
-        <li>
-          Access to a broad range of insurance products from top carriers.
-        </li>
-        <li>Comprehensive training and ongoing support to help you succeed.</li>
-        <li>
-          Flexible working hours and the ability to work remotely or in-person.
-        </li>
-        <li>
-          Opportunities for growth and advancement within a growing agency.
-        </li>
-      </ul>
-      <h3 class="mb-3">How to Apply</h3>
-      <p class="mb-4">
-        If you are a licensed insurance agent in Maryland or Washington, DC, and
-        are ready to take the next step in your career with a forward-thinking
-        and supportive agency, we want to hear from you! Please send your resume
-        and a brief cover letter to
-        <a href="mailto:info@harcorplife.com">info@harcorplife.com</a> with the
-        subject line “Independent Insurance Agent Application.” Join Harcorp
-        Life LLC and make a difference by helping clients protect what matters
-        most!
-      </p>
-      <a href="mailto:info@harcorplife.com" class="plain">
-        <Button icon="pi pi-angle-double-right" label="Apply Now" />
-      </a>
-    </section>
-    <section class="container pt-8" id="pa">
-      <h2 class="mb-3">
-        Independent Insurance Agent (Licensed and non-licensed candidates
-        wanted, Remote option) - Pennsylvania
-      </h2>
-      <h3 class="mb-3">Position Overview</h3>
-      <p class="mb-4">
-        As an Independent Insurance Agent with Harcorp Life LLC, you will have
-        the opportunity to represent a wide range of insurance products,
-        including life, health, business liability, and personal umbrella
-        insurance. You will work with clients to assess their needs and provide
-        comprehensive insurance solutions that protect their assets and mitigate
-        risks. This role is perfect for self-driven individuals looking to
-        expand their careers in the insurance industry with the support of a
-        growing agency.
-      </p>
-      <h3>Responsibilities</h3>
-      <ul class="mb-4">
-        <li>
-          Develop and maintain a portfolio of clients by identifying and
-          prospecting potential leads.
-        </li>
-        <li>
-          Assess clients' insurance needs and provide tailored solutions,
-          including life and health insurance.
-        </li>
-        <li>
-          Educate clients on available insurance options and assist them in
-          making informed decisions.
-        </li>
-        <li>
-          Conduct policy reviews and assist clients with policy changes,
-          renewals, and claims processing.
-        </li>
-        <li>
-          Build and maintain strong relationships with clients, ensuring
-          exceptional service and retention.
-        </li>
-        <li>
-          Stay updated on industry trends, products, and regulations to provide
-          the best possible advice to clients.
-        </li>
-        <li>
-          Participate in health fairs, webinars, and orientations to educate
-          potential clients on available insurance plans.
-        </li>
-      </ul>
-      <h3>Qualifications</h3>
-      <ul class="mb-4">
-        <li>Active insurance license in Washington, DC is not required.</li>
-        <li>
-          Proven experience in insurance sales, consulting, or a related field
-          is preferred.
-        </li>
-        <li>Excellent communication, negotiation, and interpersonal skills.</li>
-        <li>Self-motivated, goal-oriented, and able to work independently.</li>
-        <li>Ability to build and maintain strong client relationships.</li>
-        <li>
-          Experience with benefit enrollments and employee education is a plus.
-        </li>
-      </ul>
-      <h3>What We Offer</h3>
-      <ul class="mb-4">
-        <li>
-          Competitive commission structure with uncapped earning potential.
-        </li>
-        <li>
-          Access to a broad range of insurance products from top carriers.
-        </li>
-        <li>Comprehensive training and ongoing support to help you succeed.</li>
-        <li>
-          Flexible working hours and the ability to work remotely or in-person.
-        </li>
-        <li>
-          Opportunities for growth and advancement within a growing agency.
-        </li>
-      </ul>
-      <h3 class="mb-3">How to Apply</h3>
-      <p class="mb-4">
-        If you are a licensed insurance agent in Maryland or Washington, DC, and
-        are ready to take the next step in your career with a forward-thinking
-        and supportive agency, we want to hear from you! Please send your resume
-        and a brief cover letter to
-        <a href="mailto:info@harcorplife.com">info@harcorplife.com</a> with the
-        subject line “Independent Insurance Agent Application.” Join Harcorp
-        Life LLC and make a difference by helping clients protect what matters
-        most!
-      </p>
-      <a href="mailto:info@harcorplife.com" class="plain">
+      <div class="content mb-4">
+        <h4 class="mb-3">What You'll Do:</h4>
+        <ul class="mb-4">
+          <li>
+            Lead and mentor a team of insurance agents to grow a profitable
+            business
+          </li>
+          <li>
+            Offer life insurance and financial solutions to clients, building
+            strong relationships along the way
+          </li>
+          <li>
+            Leverage a proven blueprint for success, modeled after
+            industry-leading brokers and mentors
+          </li>
+          <li>
+            Build passive income streams by scaling your team and expanding your
+            influence
+          </li>
+          <li>
+            Work in a supportive, competitive environment that encourages
+            professional and personal growth
+          </li>
+        </ul>
+
+        <h4 class="mb-3">What We Offer:</h4>
+        <ul class="mb-4">
+          <li>
+            <strong>Proven System for Success:</strong> Access to a proven
+            blueprint that has allowed agents to make six figures within 18
+            months
+          </li>
+          <li>
+            <strong>Mentorship from 7-Figure Brokers:</strong> Receive free
+            guidance and coaching from top brokers who have built
+            multi-million-dollar businesses
+          </li>
+          <li>
+            <strong>Competitive Couples Welcome:</strong> We love competitive
+            couples who want to build a business together
+          </li>
+          <li>
+            <strong>Access to Premium Trainings:</strong> Get access to top-tier
+            training valued at a minimum of $10,000
+          </li>
+          <li>
+            <strong>Flexible Schedule:</strong> Create your own work-life
+            balance while working as a 1099 independent contractor
+          </li>
+          <li>
+            <strong>Lucrative Income Potential:</strong> Build passive income
+            through your team and benefit from a highly rewarding commission
+            structure
+          </li>
+        </ul>
+
+        <h4 class="mb-3">Requirements:</h4>
+        <ul class="mb-4">
+          <li>Able to invest $199 immediately to start your business</li>
+          <li>Excellent leadership, communication, and interpersonal skills</li>
+          <li>Self-motivated with a strong entrepreneurial mindset</li>
+          <li>Ability to work independently and as part of a team</li>
+          <li>Must be authorized to work in the United States</li>
+        </ul>
+
+        <h4 class="mb-3">Job Details:</h4>
+        <ul class="mb-4">
+          <li>Job Types: Full-time, Part-time, Contract, Permanent</li>
+          <li>Pay Range: $75,000 - $106,000 per year</li>
+          <li>Expected Hours: 4 – 40 per week</li>
+          <li>Location: Remote available</li>
+        </ul>
+
+        <h4 class="mb-3">Benefits & Compensation:</h4>
+        <ul class="mb-4">
+          <li>Flexible schedule</li>
+          <li>Paid time off</li>
+          <li>Work from home</li>
+          <li>Bonus opportunities</li>
+          <li>Commission pay</li>
+        </ul>
+      </div>
+      <a
+        href="https://office.hgicrusade.com/register/jeremiahharris/"
+        target="_blank"
+        class="plain"
+      >
         <Button icon="pi pi-angle-double-right" label="Apply Now" />
       </a>
     </section>

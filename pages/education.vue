@@ -21,129 +21,26 @@
           />
         </div>
         <div class="col-12 lg:col-7 p-4 lg:px-8">
-          <h2 class="mb-4">Personal Insurance</h2>
           <p class="mb-4">
             Harcorp Life LLC is proud to offer helpful tips and documents to
-            help you better understand insurance and related products. Explore
-            your options below:
-          </p>
-          <h4 class="mb-4">Our life and health insurance products include:</h4>
-          <ul class="mb-4">
-            <li>Final Expense Insurance</li>
-            <li>Fixed Annuities</li>
-            <li>Individual & Family Health Insurance</li>
-            <li>Individual Dental Insurance</li>
-            <li>Individual Disability Insurance</li>
-            <li>Individual Life Insurance</li>
-            <li>Individual Long-Term Care (LTC) Insurance</li>
-            <li>Mortgage Protection Insurance</li>
-          </ul>
-          <h4 class="mb-2">Life & Health Insurance</h4>
-          <p class="mb-4">
-            Finding the right Life and Health Insurance products can be
-            challenging in today's insurance environment. Harcorp Life offers a
-            complete line of individual health and life insurance products that
-            are crafted to meet you and your family's specific needs. We work
-            with several different top-rated insurance companies, and will place
-            your account with the company that will provide you with the
-            coverage and benefits you want.
-          </p>
-        </div>
-      </div>
-    </section>
-    <section>
-      <div class="grid">
-        <div class="col-12 lg:col-7 p-4 lg:px-8">
-          <h2 class="mb-4">Business Insurance</h2>
-          <p class="mb-4">
-            Insurance coverage is available for nearly every conceivable risk
-            you might encounter at your business. Like the risk, the cost and
-            amount of coverage of policies can vary among insurers just as much.
-            Alliance West Insurance, Inc. can shop multiple companies to save
-            you time and money. You should discuss your specific business risks
-            and the types of insurance available with one of our licensed
-            insurance agents. Our agents can advise you on the exact types of
-            insurance you should consider purchasing.
-          </p>
-          <h4 class="mb-4">Products we offer:</h4>
-          <ul class="mb-4">
-            <li>Business Owners Plan</li>
-            <li>General liability insurance</li>
-            <li>Flood</li>
-            <li>Cyber Liability</li>
-            <li>Workers Compensation</li>
-            <li>Errors and Omissions</li>
-          </ul>
-          <h4 class="mb-2">General Liability Insurance</h4>
-          <p class="mb-4">
-            Business owners can and should purchase general liability insurance
-            to cover legal hassles due to accident, injuries and claims of
-            negligence. These policies protect against payment due to the
-            injured party as a result of bodily injury, property damage, medical
-            expenses, libel, slander, the cost of defending lawsuits, and
-            settlement bonds or judgments required during an appeal procedure.
-            Ask an agent at Alliance West Insurance, Inc. about these coverages.
-          </p>
-          <h4 class="mb-2">Professional Liability Insurance</h4>
-          <p class="mb-4">
-            Business owners providing services should consider having
-            professional liability insurance (also known as errors and omissions
-            insurance). This type of liability coverage protects your business
-            against malpractice, errors, and negligence in provision of services
-            to your customers. Depending on your profession, you may be required
-            by your state government to carry such a policy. For example,
-            physicians are required to purchase malpractice insurance as a
-            condition of practicing in certain states.
-          </p>
-        </div>
-        <div class="col-12 lg:col mb-4">
-          <img
-            alt="woman signing work documents on a desk"
-            src="/images/business-insurance.jpg"
-          />
-        </div>
-      </div>
-    </section>
-    <section class="mb-4">
-      <div class="grid">
-        <div class="col-12 lg:col mb-4">
-          <img
-            alt="woman signing work documents on a desk"
-            src="/images/covered-equipment.jpg"
-          />
-        </div>
-        <div class="col-12 lg:col-7 p-4 lg:px-8">
-          <h2 class="mb-4">Group Benefits</h2>
-          <p class="mb-4">
-            Health Insurance removes the barriers to care when someone gets sick
-            or injured. Health insurance provides financial protection against
-            significant and unexpected health care costs. Overall, comprehensive
-            health insurance provides peace of mind to individuals and families
-            that they can get the medical help they need when they are sick.
-          </p>
-          <h3 class="mb-4">Insurance and group benefits for employers:</h3>
-          <p>
-            Harcorp Life offers a complete line of insurance and group benefits
-            for employers ranging from group health insurance to life and FSAs.
-            Many businesses today face challenges in attracting and retaining
-            top employees. As a business owner, you know the importance of
-            employee benefits and their contribution to your business success.
-            We will work with you to develop a program tailored to your
-            individual circumstances.
-          </p>
-          <p>
-            These products and services are designed to provide solutions to
-            your personal and business financial needs, including:
+            help you better understand insurance and related products.
           </p>
           <ul class="mb-4">
-            <li>Flexible Spending Accounts (FSA)</li>
-            <li>Group Dental Insurance</li>
-            <li>Group Disability Insurance</li>
-            <li>Group Health Insurance</li>
-            <li>Group Life Insurance</li>
-            <li>Group Long-Term Care (LTC) Insurance</li>
-            <li>Group Vision Insurance</li>
-            <li>Health Savings Accounts (HSA)</li>
+            <li>
+              <span class="font-bold">Review Your Policy Thoroughly</span> -
+              Familiarize yourself with all terms, conditions, and coverage
+              details to fully understand your rights.
+            </li>
+            <li>
+              <span class="font-bold">Know Your Costs</span> - Be aware of all
+              expenses, including premiums, deductibles, and any potential
+              out-of-pocket costs.
+            </li>
+            <li>
+              <span class="font-bold">Maximize Your Benefits</span> - Check for
+              any available discounts or cost-saving opportunities to ensure
+              you're getting the best value.
+            </li>
           </ul>
         </div>
       </div>

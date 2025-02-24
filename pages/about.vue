@@ -17,10 +17,10 @@
         <div class="col-12 lg:col box1 p-5 mb-4">
           <h2 class="mb-4">Our Mission</h2>
           <p>
-            Our mission is to educate, inform, produce, and recruit. To meet
-            this objective we meet with individuals, families, and communities
-            to educate them about the market, and inform you about what is
-            available.
+            Our mission is to educate, inform, produce, and recruit by engaging
+            with individuals, families, and communities. We strive to provide
+            market insights, share valuable opportunities, and empower informed
+            decision-making through education and outreach.
           </p>
         </div>
       </div>
@@ -35,13 +35,22 @@
         </div>
         <div class="col-12 lg:col-7 p-4 lg:px-8 lg:py-6">
           <h3 class="mb-4">Our Offering</h3>
+          <p class="mb-4">
+            As a trusted agency, Harcorp Life is dedicated to helping you
+            navigate our comprehensive insurance solutions, including Life and
+            Health Insurance, Business Insurance, Group Benefits, and Pet
+            Insurance—ensuring tailored coverage that meets your unique needs.
+          </p>
           <p class="mb-6">
-            Home, Auto, Personal, Commercial, Health and Pet Insurance
+            Our commitment is to protect your assets, minimize risks, and
+            provide financial security, all while offering competitive rates in
+            the local market.
           </p>
           <h3 class="mb-3">Areas Of Coverage</h3>
           <p class="mb-4">
             DC - District of Columbia &bull; MD - Maryland &bull; NJ - New
-            Jersey &bull; PA - Pennsylvania &bull; VA - Virginia
+            Jersey &bull; PA - Pennsylvania &bull; VA - Virginia &bull; WV -
+            West Virginia
           </p>
         </div>
       </div>
@@ -49,13 +58,11 @@
     <section class="dark lg:text-center p-6 mb-7">
       <h2 class="white mb-4">Company Background</h2>
       <p class="white lg:w-9 m-auto mb-4">
-        Founded in 2022, Harcorp Life LLC is an insurance consulting and
-        management agency. Our specialty is to support our clients’ needs in
-        navigating the insurance marketplace. As a premier insurance agency, we
-        specializing in tailoring value-driven insurance plans for individuals,
-        professionals, homeowners, and businesses. Our commitment lies in
-        safeguarding assets and mitigating liabilities, all while offering some
-        of the most competitive rates in the local market.
+        Founded in 2022, Harcorp Life LLC is a dynamic insurance marketing and
+        distribution company specializing in insurance products and financial
+        planning services. We are committed to providing tailored solutions that
+        help individuals, businesses, and families secure their financial future
+        with confidence.
       </p>
     </section>
     <section class="container">
