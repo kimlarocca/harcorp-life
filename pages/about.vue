@@ -17,10 +17,10 @@
         <div class="col-12 lg:col box1 p-5 mb-4">
           <h2 class="mb-4">Our Mission</h2>
           <p>
-            Our mission is to educate, inform, produce, and recruit by engaging
-            with individuals, families, and communities. We strive to provide
-            market insights, share valuable opportunities, and empower informed
-            decision-making through education and outreach.
+            Our mission is to educate, inform, produce, and recruit by engaging with
+            individuals, families, and communities. We strive to provide market insights,
+            share valuable opportunities, and empower informed decision-making through
+            education and outreach.
           </p>
         </div>
       </div>
@@ -36,21 +36,19 @@
         <div class="col-12 lg:col-7 p-4 lg:px-8 lg:py-6">
           <h3 class="mb-4">Our Offering</h3>
           <p class="mb-4">
-            As a trusted agency, Harcorp Life is dedicated to helping you
-            navigate our comprehensive insurance solutions, including Life and
-            Health Insurance, Business Insurance, Group Benefits, and Pet
-            Insurance—ensuring tailored coverage that meets your unique needs.
+            As a trusted agency, Harcorp Life is dedicated to helping you navigate our
+            comprehensive insurance solutions, including Life and Health Insurance,
+            Business Insurance, Group Benefits, and Pet Insurance—ensuring tailored
+            coverage that meets your unique needs.
           </p>
           <p class="mb-6">
-            Our commitment is to protect your assets, minimize risks, and
-            provide financial security, all while offering competitive rates in
-            the local market.
+            Our commitment is to protect your assets, minimize risks, and provide
+            financial security, all while offering competitive rates in the local market.
           </p>
           <h3 class="mb-3">Areas Of Coverage</h3>
           <p class="mb-4">
-            DC - District of Columbia &bull; MD - Maryland &bull; NJ - New
-            Jersey &bull; PA - Pennsylvania &bull; VA - Virginia &bull; WV -
-            West Virginia
+            DC - District of Columbia &bull; MD - Maryland &bull; NJ - New Jersey &bull;
+            PA - Pennsylvania &bull; VA - Virginia &bull; WV - West Virginia
           </p>
         </div>
       </div>
@@ -59,10 +57,9 @@
       <h2 class="white mb-4">Company Background</h2>
       <p class="white lg:w-9 m-auto mb-4">
         Founded in 2022, Harcorp Life LLC is a dynamic insurance marketing and
-        distribution company specializing in insurance products and financial
-        planning services. We are committed to providing tailored solutions that
-        help individuals, businesses, and families secure their financial future
-        with confidence.
+        distribution company specializing in insurance products and financial planning
+        services. We are committed to providing tailored solutions that help individuals,
+        businesses, and families secure their financial future with confidence.
       </p>
     </section>
     <section class="container">
@@ -84,8 +81,8 @@
             <li><strong>524210</strong> (Insurance Agencies and Brokerages)</li>
             <li><strong>561110</strong> (Office Administrative Services)</li>
             <li>
-              <strong>811210</strong> (Electronic and Precision Equipment Repair
-              and Maintenance)
+              <strong>811210</strong> (Electronic and Precision Equipment Repair and
+              Maintenance)
             </li>
           </template>
         </Card>
@@ -123,13 +120,16 @@
           <template #title>Careers</template>
           <template #content>
             <p>
-              If you are a licensed insurance agent in Maryland or Washington,
-              DC, and are ready to take the next step in your career with a
-              forward-thinking and supportive agency, we want to hear from you!
+              If you are a licensed insurance agent in Maryland or Washington, DC, and are
+              ready to take the next step in your career with a forward-thinking and
+              supportive agency, we want to hear from you!
             </p>
           </template>
           <template #footer>
-            <nuxt-link to="/careers">
+            <nuxt-link
+              to="https://web.zybrzeus.com/jeremiahharris/insurance-careers"
+              target="_blank"
+            >
               <Button icon="pi pi-angle-double-right" label="Learn More" />
             </nuxt-link>
           </template>
@@ -141,13 +141,7 @@
       <form v-if="!formSent" @submit="postContactForm()">
         <div class="mb-4">
           <label for="userName">Full Name</label>
-          <input
-            v-model="userName"
-            type="text"
-            id="userName"
-            name="userName"
-            required
-          />
+          <input v-model="userName" type="text" id="userName" name="userName" required />
         </div>
         <div class="mb-4">
           <label for="userEmail">Email</label>
@@ -161,12 +155,7 @@
         </div>
         <div class="mb-4">
           <label for="userEmail">Phone (optional)</label>
-          <input
-            v-model="userPhone"
-            type="text"
-            id="userPhone"
-            name="userPhone"
-          />
+          <input v-model="userPhone" type="text" id="userPhone" name="userPhone" />
         </div>
         <div class="mb-4">
           <label for="userMessage">Message</label>
@@ -180,8 +169,7 @@
         <Button type="submit">Submit</Button>
       </form>
       <p v-else>
-        Thank you for contacting us! We will get back to you as soon as
-        possible.
+        Thank you for contacting us! We will get back to you as soon as possible.
       </p>
     </section>
   </div>
@@ -189,22 +177,22 @@
 
 <script setup>
 const logos = [
-  '/images/logos/Aetna.svg',
-  '/images/logos/annexus.jpg',
-  '/images/logos/atbay.svg',
-  '/images/logos/attune.png',
-  '/images/logos/biberk.svg',
-  '/images/logos/carefirst.svg',
-  '/images/logos/cna.gif',
-  '/images/logos/corebridge.png',
-  '/images/logos/hiscox.png',
-  '/images/logos/iml.webp',
-  '/images/logos/kp.png',
-  '/images/logos/mutual-of-omaha.png',
-  '/images/logos/nationwide.png',
-  '/images/logos/next.svg',
-  '/images/logos/three.svg',
-  '/images/logos/uhc.png'
+  "/images/logos/Aetna.svg",
+  "/images/logos/annexus.jpg",
+  "/images/logos/atbay.svg",
+  "/images/logos/attune.png",
+  "/images/logos/biberk.svg",
+  "/images/logos/carefirst.svg",
+  "/images/logos/cna.gif",
+  "/images/logos/corebridge.png",
+  "/images/logos/hiscox.png",
+  "/images/logos/iml.webp",
+  "/images/logos/kp.png",
+  "/images/logos/mutual-of-omaha.png",
+  "/images/logos/nationwide.png",
+  "/images/logos/next.svg",
+  "/images/logos/three.svg",
+  "/images/logos/uhc.png",
 ]
 </script>
 

@@ -11,11 +11,11 @@
   "devDependencies": {
     "@nuxt/devtools": "^1.4.1",
     "nuxt": "^3.2.0",
+    "primeicons": "^7.0.0",
     "sass": "^1.58.2"
   },
   "dependencies": {
     "primeflex": "^3.3.0",
-    "primeicons": "^6.0.1",
     "primevue": "^3.23.0",
     "vue-inline-svg": "^3.1.4"
   }
