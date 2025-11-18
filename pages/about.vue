@@ -98,7 +98,7 @@
         </Card>
       </div>
     </section>
-    <section class="container mb-7">
+    <!-- <section class="container mb-7">
       <h3 class="mb-5">Carriers</h3>
       <div class="grid">
         <div class="col col-6 lg:col-4 mb-4" v-for="logo in logos" :key="logo">
@@ -113,7 +113,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <section class="container mb-7">
       <div class="grid">
         <Card class="col-12 lg:col mb-4">
@@ -137,8 +137,16 @@
       </div>
     </section>
     <section class="container">
-      <h3 class="mb-4">Please fill out the following form to contact us:</h3>
-      <form v-if="!formSent" @submit="postContactForm()">
+      <h3>Please fill out the following form to contact us:</h3>
+      <iframe
+        aria-label="contact us form"
+        src="https://forms.clickup.com/10625769/f/a48q9-17633/AW9OMZ49NBJB7J3LS5"
+        width="100%"
+        height="1200"
+        frameborder="0"
+        style="border: none"
+      ></iframe>
+      <!-- <form v-if="!formSent" @submit="postContactForm()">
         <div class="mb-4">
           <label for="userName">Full Name</label>
           <input v-model="userName" type="text" id="userName" name="userName" required />
@@ -170,7 +178,7 @@
       </form>
       <p v-else>
         Thank you for contacting us! We will get back to you as soon as possible.
-      </p>
+      </p> -->
     </section>
   </div>
 </template>
